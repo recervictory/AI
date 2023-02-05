@@ -3,6 +3,12 @@ Join the 100 Days of ML Challenge and improve your machine learning skills by co
 
 ## [Day 01: Breast Cancer Wisconsin (Diagnostic) Data Set](00_Breast_Cancer_Prediction/)
 
+### Title: Classification of Breast Cancer Diagnosis using Logistic Regression
+
+### Objective: 
+The goal of this project is to develop a machine learning model that can accurately classify the diagnosis of breast cancer as either benign or malignant based on various diagnostic measurements.
+
+### Outcome:
 ![alt](00_Breast_Cancer_Prediction/report/output.png)
 The first row represents the actual benign cases. Out of these, 148 were correctly classified as benign, and `0 were incorrectly classified as malignant`. The second row,represents the actual malignant cases. Out of these, `4 were incorrectly classified `as benign, and 76 were correctly classified as malignant.
 
